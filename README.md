@@ -30,6 +30,6 @@ The only dependencies are rust and cargo. For the crates, it needs the following
 1. Clone the repo
 2. Navigate to the project root
 3. run `cargo build -r` (release mode)
-4. You will find your executable in diractory `$crate/target/release/`
+4. You will find your executable in directory `$crate/target/release/`
 
 
